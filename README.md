@@ -124,3 +124,4 @@ Problem: Accidentally committed client/ as a git submodule.
 
 Solution: Removed .gitmodules, .git/config entries, and re-added client/ as a normal directory.
 
+Deployment link :https://talker-wo0x.onrender.com 
